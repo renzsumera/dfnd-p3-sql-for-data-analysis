@@ -7,10 +7,10 @@ The sample is called the Chinook Database. It holds information about a music st
 
 ## Submission
 1. Presention which includes:
-  - Four slides
-  - One visualization per slide
-  - A 1-2 sentence explanation of each slide
-  - The SQL query used to create the data used in the visualization
+    - Four slides
+    - One visualization per slide
+    - A 1-2 sentence explanation of each slide
+    - The SQL query used to create the data used in the visualization
   
  2. Queries
   - Text file that includes each of the queries used to create hte visualizations
